@@ -1,6 +1,9 @@
 ### Hi there 👋
+
 🔭 I’m currently working on full stack development
+
 🌱 I’m currently learning React.js
+
 📫 How to reach me: sri59776@gmail.com
 <!--
 **sreesri/sreesri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
